@@ -13,7 +13,8 @@ Rajeg](https://udayananetworking.unud.ac.id/lecturer/880-gede-primahadi-wijaya-r
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />Material
 pendukung dalam repositori ini berlisensi
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">Creative
-Commons Attribution-NonCommercial 4.0 International License</a>.
+Commons Attribution-NonCommercial 4.0 International License</a>.<br />
+[![](https://img.shields.io/badge/doi-10.17605/OSF.IO/CE3MR-green.svg)](https://doi.org/10.17605/OSF.IO/CE3MR)
 <!-- badges: end -->
 
 Repositori material pendukung untuk naskah berjudul “**Meninjau kembali
@@ -21,7 +22,15 @@ pandangan klasik terkait perilaku konstruksional *memberi*
 vs. *memberikan*: Suatu kajian dari perspektif linguistik korpus
 kuantitatif dan Gramatika Konstruksional**”. Makalah ini akan
 diterbitkan sebagai salah satu bab dalam buku persembahan berjudul *Budi
-Bahasa* (penyunting I Nengah Sudipa, Universitas Udayana).
+Bahasa* (penyunting I Nengah Sudipa, Universitas Udayana). Berikut
+adalah cara mengutip repositori ini jika diadaptasi dan/atau digunakan
+untuk penelitian lanjutan:
+
+> Rajeg, G. P. W. (2022, July 26). Data dan kode pemrograman R untuk
+> “Meninjau kembali pandangan klasik terkait perilaku konstruksional
+> *memberi* vs. *memberikan*: Suatu kajian dari perspektif linguistik
+> korpus kuantitatif dan Gramatika Konstruksional.”
+> <https://doi.org/10.17605/OSF.IO/CE3MR>
 
 Berikut ini adalah keterangan berkas dalam repositori ini:
 

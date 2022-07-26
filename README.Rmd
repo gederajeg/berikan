@@ -32,3 +32,8 @@ Berikut ini adalah keterangan berkas dalam repositori ini:
 - berkas sampel konkordansi awal (sebelum dianotasi) untuk *memberi* dan *memberikan* terdapat pada [`memberi.txt`](https://github.com/gederajeg/berikan/blob/main/memberi.txt) dan [`memberikan.txt`](https://github.com/gederajeg/berikan/blob/main/memberikan.txt). Berkas ini dihasilkan dengan kode yang terdapat pada [`memberi_memberikan_code.R`](https://github.com/gederajeg/berikan/blob/main/memberi_memberikan_code.R).
 
 - direktori [`figs`](https://github.com/gederajeg/berikan/tree/main/figs) menyimpan luaran visualisasi statistik yang dihasilkan melalui [`analysis-code.R`](https://github.com/gederajeg/berikan/blob/main/analysis-code.R) dan juga gambar jejaring konstruksional yang dilaporkan dalam makalah.
+
+
+```{r sessinfo}
+devtools::session_info()
+```

@@ -63,8 +63,9 @@ Berikut ini adalah keterangan berkas dalam repositori ini:
     [`figs`](https://github.com/gederajeg/berikan/tree/main/figs)
     menyimpan luaran visualisasi statistik yang dihasilkan melalui
     [`analysis-code.R`](https://github.com/gederajeg/berikan/blob/main/analysis-code.R)
-    dan juga gambar jejaring konstruksional yang dilaporkan dalam
-    makalah.
+    dan juga gambar [jejaring
+    konstruksional](https://github.com/gederajeg/berikan/blob/main/figs/network.pdf)
+    yang dilaporkan dalam makalah.
 
 ``` r
 devtools::session_info()

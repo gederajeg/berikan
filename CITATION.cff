@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Jika Anda menggunakan dan/atau mengadaptasi material dalam repositori ini, mohon berikan kutipan sebagai berikut"
+authors:
+  - family-names: Rajeg
+    given-names: Gede Primahadi Wijaya
+    orcid: https://orcid.org/0000-0002-2047-8621
+title: "Data dan kode pemrograman R untuk “Meninjau kembali pandangan klasik terkait perilaku konstruksional *memberi* vs. *memberikan*: Suatu kajian dari perspektif linguistik korpus kuantitatif dan Gramatika Konstruksional”"
+version: 0.0.1
+date-released: 2022-07-26
+license: CC BY-NC 4.0 International
+repository-code: "https://github.com/gederajeg/berikan"

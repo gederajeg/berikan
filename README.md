@@ -35,6 +35,14 @@ diadaptasi dan/atau digunakan untuk penelitian lanjutan:
 > korpus kuantitatif dan Gramatika Konstruksional.”
 > <https://doi.org/10.17605/OSF.IO/CE3MR>
 
+Naskah pra-cetak (*pre-print*) dapat diunduh melalui tautan berikut:
+
+> Rajeg, Gede Primahadi Wijaya. 2022. “Meninjau Kembali Pandangan Klasik
+> Terkait Perilaku Konstruksional *Memberi* Vs. *Memberikan*: Suatu
+> Kajian Dari Perspektif Linguistik Korpus Kuantitatif Dan Gramatika
+> Konstruksional.” PsyArXiv. July 27.
+> [psyarxiv.com/q763g](https://psyarxiv.com/q763g)
+
 Berikut ini adalah keterangan berkas dalam repositori ini:
 
 -   berkas

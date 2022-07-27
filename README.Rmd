@@ -23,6 +23,10 @@ Repositori material pendukung untuk naskah berjudul “__Meninjau kembali pandan
 
 > Rajeg, G. P. W. (2022, July 26). Data dan kode pemrograman R untuk “Meninjau kembali pandangan klasik terkait perilaku konstruksional *memberi* vs. *memberikan*: Suatu kajian dari perspektif linguistik korpus kuantitatif dan Gramatika Konstruksional.” https://doi.org/10.17605/OSF.IO/CE3MR
 
+Naskah pra-cetak (*pre-print*) dapat diunduh melalui tautan berikut:
+
+> Rajeg, Gede Primahadi Wijaya. 2022. “Meninjau Kembali Pandangan Klasik Terkait Perilaku Konstruksional *Memberi* Vs. *Memberikan*: Suatu Kajian Dari Perspektif Linguistik Korpus Kuantitatif Dan Gramatika Konstruksional.” PsyArXiv. July 27. [psyarxiv.com/q763g](https://psyarxiv.com/q763g)
+
 Berikut ini adalah keterangan berkas dalam repositori ini:
 
 - berkas [`analysis-code.R`](https://github.com/gederajeg/berikan/blob/main/analysis-code.R) berisi kode pemrograman R untuk keseluruhan analisis kuantitatif/statistik dan visualisasi yang dilaporkan dalam makalah

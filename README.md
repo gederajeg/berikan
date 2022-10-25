@@ -26,14 +26,7 @@ kuantitatif dan Gramatika Konstruksional**”. Makalah ini akan
 diterbitkan sebagai salah satu bab dalam buku persembahan berjudul *Budi
 Bahasa* (penyunting [I Nengah
 Sudipa](https://udayananetworking.unud.ac.id/professor/1746-i-nengah-sudipa),
-Universitas Udayana). Berikut adalah cara mengutip repositori ini jika
-diadaptasi dan/atau digunakan untuk penelitian lanjutan:
-
-> Rajeg, G. P. W. (2022, July 26). Data dan kode pemrograman R untuk
-> “Meninjau kembali pandangan klasik terkait perilaku konstruksional
-> *memberi* vs. *memberikan*: Suatu kajian dari perspektif linguistik
-> korpus kuantitatif dan Gramatika Konstruksional.”
-> <https://doi.org/10.17605/OSF.IO/CE3MR>
+Universitas Udayana).
 
 Naskah pra-cetak (*pre-print*) dapat diunduh melalui tautan berikut:
 
@@ -42,6 +35,15 @@ Naskah pra-cetak (*pre-print*) dapat diunduh melalui tautan berikut:
 > Kajian Dari Perspektif Linguistik Korpus Kuantitatif Dan Gramatika
 > Konstruksional.” PsyArXiv. July 27.
 > [psyarxiv.com/q763g](https://psyarxiv.com/q763g)
+
+Berikut adalah cara mengutip repositori ini jika diadaptasi dan/atau
+digunakan untuk penelitian lanjutan:
+
+> Rajeg, G. P. W. (2022, July 26). Data dan kode pemrograman R untuk
+> “Meninjau kembali pandangan klasik terkait perilaku konstruksional
+> *memberi* vs. *memberikan*: Suatu kajian dari perspektif linguistik
+> korpus kuantitatif dan Gramatika Konstruksional.”
+> <https://doi.org/10.17605/OSF.IO/CE3MR>
 
 Berikut ini adalah keterangan berkas dalam repositori ini:
 
@@ -83,15 +85,15 @@ devtools::session_info()
 #> ─ Session info ───────────────────────────────────────────────────────────────
 #>  setting  value
 #>  version  R version 4.1.3 (2022-03-10)
-#>  os       macOS Monterey 12.4
+#>  os       macOS Monterey 12.6
 #>  system   aarch64, darwin20
 #>  ui       X11
 #>  language (EN)
 #>  collate  en_US.UTF-8
 #>  ctype    en_US.UTF-8
 #>  tz       Asia/Makassar
-#>  date     2022-07-27
-#>  pandoc   2.17.1.1 @ /Applications/RStudio.app/Contents/MacOS/quarto/bin/ (via rmarkdown)
+#>  date     2022-10-25
+#>  pandoc   2.18 @ /Applications/RStudio.app/Contents/MacOS/quarto/bin/tools/ (via rmarkdown)
 #> 
 #> ─ Packages ───────────────────────────────────────────────────────────────────
 #>  package     * version date (UTC) lib source
